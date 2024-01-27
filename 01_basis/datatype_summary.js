@@ -34,3 +34,8 @@ const myfunction=function(){
 
 console.log(typeof bigNumber); //bigInt
 console.log(typeof myfunction); // function object
+
+
+//++++++++++++++++++++++++++++++++++++++++++++
+
+//stack (Primitive) , Heap (non Primitive)
