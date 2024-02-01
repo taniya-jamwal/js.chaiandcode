@@ -29,12 +29,12 @@ const isUserLoggedIn=true
 const debitCard=true
 const loggedInfromGoogle=false
 const loggedInFromEmail=true
-if(isUserLoggedIn && debitCard&& 2==3)
-{
-    console.log("allow to buy courses");
-}
+// if(isUserLoggedIn && debitCard&& 2==3)
+// {
+//     console.log("allow to buy courses");
+// }
 
-if(loggedInfromGoogle || loggedInFromEmail|| )
-{
-    console.log("usere logged in");
-}
+// if(loggedInfromGoogle || loggedInFromEmail|| )
+// {
+//     console.log("usere logged in");
+// }
